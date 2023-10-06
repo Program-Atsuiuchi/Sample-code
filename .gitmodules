@@ -1,3 +1,6 @@
 [submodule "Java"]
 	path = Java
 	url = https://gist.github.com/Program-Atsuiuchi/541654efef0e1467eb3dac3b94e6ae73
+[submodule "C"]
+	path = C
+	url = https://gist.github.com/Program-Atsuiuchi/b4a67ae70e14bc2a57b67acbe1b16528
